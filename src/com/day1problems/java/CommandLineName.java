@@ -14,6 +14,6 @@ public class CommandLineName {
 		  String name = args[1];
 	      System.out.println("The name of the user is: " +name);
 
-	}
+      }
 
 }
