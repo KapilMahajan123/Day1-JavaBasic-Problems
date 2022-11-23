@@ -24,7 +24,7 @@ public class StringEquality {
 		System.out.println("String2 is equal to string3 = " + val2);
 
 
-	}
+	 }
 		
 
 }
