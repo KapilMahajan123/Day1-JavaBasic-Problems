@@ -31,6 +31,6 @@ public class PrimitiveDataTypes {
 		System.out.println("Character: "+ch);
 		System.out.println("Boolean: "+bl);
 		
-	}
+	 }
 
 }
